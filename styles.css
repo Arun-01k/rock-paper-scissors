@@ -1,0 +1,22 @@
+#main{
+    display: flex;
+    justify-content: center;
+    background-color: pink;
+    
+}
+
+button{
+    padding: 30px;
+    margin: 20px;
+    background-color: lavender;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+p{
+    background-color: lavender;
+}
+
+a{
+    background-color: pink;
+}
